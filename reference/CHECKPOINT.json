@@ -1,0 +1,101 @@
+{
+  "updated_at": "2026-09-07T17:35:00+03:30",
+  "phase": "phase-1-core-and-demo-independence",
+  "status": "in_progress",
+  "usage_window": {
+    "used_percent": 24,
+    "remaining_percent": 76,
+    "policy": "When remaining is below 10%, update this file and PROJECT-HANDOFF-FA.md after every material change."
+  },
+  "completed": [
+    "Seven independent live WordPress folders and databases",
+    "Independent front pages and clean permalinks",
+    "Chrome live smoke test for all demos",
+    "Per-database content isolation",
+    "Official Duplicator 1.5.17 installed and active on all demos",
+    "35 Elementor Free widgets registration smoke test passes",
+    "Four unique Barber images generated, optimized and assigned",
+    "Nine unique Spa, Lashes and Makeup service images generated, optimized, synced and assigned",
+    "Seeder service_pools corrected across all seven theme copies",
+    "Six unique Clinic portfolio images generated, optimized, synced and assigned",
+    "Six unique Spa portfolio images generated, optimized, synced and assigned",
+    "Seeder folio_pools corrected for Clinic and Spa across all seven theme copies"
+    ,"Conflicting legacy visual CSS layers removed from runtime across all demos"
+    ,"Native editorial mega menu seeded and active in all seven demos"
+    ,"Advanced demo-scoped AJAX search implemented and verified with Persian prefix query"
+    ,"Desktop login label, mobile account icon, mobile menu close control, button contrast and icon centering fixed in shared Core"
+    ,"Literal backslash-n output from font preload fixed and verified live"
+    ,"Empty lightbox image eliminated; live broken-image count is zero"
+    ,"All demo pages flattened to clean top-level URLs and seeder regression fixed"
+    ,"Five new Hair portfolio assets optimized and synced to every theme copy"
+    ,"Two replacement Nail portfolio assets optimized and synced to every theme copy"
+    ,"Six unique Nail portfolio images assigned and Seeder updated"
+    ,"Six unique Hair portfolio images assigned and Seeder updated"
+    ,"Six unique Lashes portfolio images assigned and Seeder updated"
+    ,"Six unique Makeup portfolio images generated, optimized, synced and assigned"
+    ,"Six unique Barber portfolio images generated, optimized, synced and assigned"
+    ,"Twelve domain-specific article images for Nails, Clinic, Hair and Spa generated, optimized and synced"
+    ,"Six domain-specific article images for Lashes and Makeup synced to all theme copies and assigned to their databases"
+    ,"Three domain-specific Barber article images generated, optimized, synced and assigned"
+    ,"All 21 article thumbnails assigned and article_pools corrected across all seven theme copies"
+    ,"Missing demo appearance attribute restored across all seven demos"
+    ,"Sahel and Gandom font faces moved into the shared font bundle and live-verified"
+    ,"Standalone front pages now respect the assigned Studio template instead of rendering the legacy identical composition"
+    ,"Asset cache busting added for fonts, polish, demo identities and the main front-end script"
+    ,"Desktop header and navigation readability, RTL alignment and z-index fixed across all seven demos"
+    ,"Services menu item normalized to the same 43.3px height as all desktop navigation siblings"
+    ,"Mega menu visibility on keyboard focus fixed and verified live"
+    ,"Mobile navigation overlap with chat, FAB and sticky controls eliminated and ARIA state synchronized"
+    ,"All seven home pages audited at 390px and 1440px with zero horizontal overflow and zero broken images"
+    ,"Current leading beauty, spa, hair and barber theme patterns researched and documented with primary marketplace sources"
+    ,"Seven domain-specific homepage profiles implemented with different section order and service, portfolio, team and article density"
+    ,"Cross-domain About imagery removed; every demo now uses only its own hero and portfolio assets"
+    ,"All seven mobile menus live-verified at 390px as RTL with six equal 68.55px items, Services aligned, zero overflow and FAB hidden while open"
+    ,"Seven domain-specific decision-aid sections implemented with distinct content, card counts, placement and visual treatment"
+    ,"Domain-specific sections verified at 1280px and 390px with zero overflow and text contrast ratios from 9.17 to 11.56"
+    ,"Low-contrast Hair specialty copy corrected from pale gray to the identity ink color"
+    ,"Twenty-one domain-specific 720x960 progressive JPEG staff portraits generated from seven curated triptychs, optimized and synced to all theme copies"
+    ,"All 21 staff records assigned to domain-specific portraits and Seeder staff_photo_pools corrected across all seven copies"
+    ,"Database audit now reports zero cross-demo duplicate images across services, portfolios, staff and posts"
+    ,"All 21 staff portraits live-loaded successfully with zero broken images and zero horizontal overflow"
+    ,"Testimonials and all non-empty Post, Page and custom-post content hashed across databases; no cross-demo duplicate content remains"
+    ,"Services, Portfolio and Blog pages now include domain-specific introductions in both live databases and Seeder output"
+    ,"All 21 Services, Portfolio and Blog pages live-checked with independent titles, zero broken images and zero horizontal overflow"
+    ,"About, Contact, Booking, Account and Login audited across all seven demos at desktop and 390px mobile: 70 page states with RTL, zero overflow and zero broken images"
+    ,"Mobile sticky CTA and support controls checked with zero overlap across the audited internal pages"
+    ,"Desktop top-level navigation links now have a 44px minimum click width while all six items retain an equal 43.3px height; Services remains aligned with its icon and mega menu"
+    ,"RTL mega-menu hover gap removed by normalizing the open transform to translateY(0) across all seven theme copies"
+    ,"Mega-menu hover intent implemented with a 320ms leave grace period and a controlled 200ms fade transition"
+    ,"CHATGPT-PROJECT-CONTEXT-FA.md, WORK-LOG-FA.md and UPLOAD-MANIFEST-FA.md created for complete cross-chat continuity"
+  ],
+  "current_task": "Package and upload the complete root plus all seven live WordPress installs, manifests and continuity documents to the ChatGPT project named قالب زیبایی بیوتیا; then finish browser verification of mega-menu hover intent.",
+  "next": [
+    "Restore and live-verify the previous fonts on desktop and mobile",
+    "Fix and live-verify the header, desktop menu, mega menu and mobile menu",
+    "Research current top beauty and booking themes and document their layout, element, widget and feature patterns",
+    "Audit and implement meaningful per-demo variation in layout, section order, element types, widget mix and features while preserving the shared Core",
+    "QA alignment, Persian text justification, spacing and visual order at desktop, tablet and mobile breakpoints",
+    "QA text color and contrast in light, dark, image, hover and focus states",
+    "QA complete color harmony across text, backgrounds, borders, icons, buttons, imagery, shadows and all interaction states",
+    "QA icon sizing, alignment, spacing and contrast inside every button, link, input, card and interactive element",
+    "Ensure every demo uses a full-width page shell with intentional inner containers and no accidental outer frame or margin",
+    "Prove complete independence of all seven demos with zero cross-demo content leakage across text, media, services, staff, portfolios, articles, testimonials, pricing, schedules, menus, FAQ, CTA, settings, seeders and database records",
+    "QA full RTL direction and ordering of desktop navigation, mega menus, submenus and mobile navigation including text, icons and arrows",
+    "Normalize menu item typography, height, padding, baseline and click targets; specifically keep Services aligned with its siblings while preserving its icon and mega menu",
+    "Perform an art-direction review of all seven demos and the shared Core for an orderly, polished, professional, elegant and luxury finish",
+    "QA unintended overlap, intentional layering, stacking contexts and z-index for headers, menus, search, modals, chat and sticky controls",
+    "Complete media and content integrity audit",
+    "Audit the dynamic settings panel and Elementor Free controls",
+    "Run responsive visual QA",
+    "Build and validate seven real Duplicator packages",
+    "Assemble rtl-final-package",
+    "Keep all source archives, reports, full file manifest and machine-readable checkpoint updated in the ChatGPT project named قالب زیبایی بیوتیا"
+  ],
+  "blockers": [],
+  "do_not_do": [
+    "Do not create fake/manual Duplicator installers",
+    "Do not use paid plugins as hard dependencies",
+    "Do not mix demo databases or media",
+    "Do not use fallback methods without explicit user permission"
+  ]
+}

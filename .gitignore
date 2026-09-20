@@ -1,0 +1,14 @@
+# WordPress and environment state
+wp-admin/
+wp-includes/
+wp-content/cache/
+wp-content/uploads/
+wp-content/backups-dup-lite/
+wp-content/upgrade/
+wp-config.php
+.env
+*.log
+*.bak
+*.tmp
+installer.php
+dup-installer-*
